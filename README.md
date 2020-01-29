@@ -1,4 +1,4 @@
-# product-landing-page
+# Responsive Web Design Projects - Build a Product Landing Page
 # Objective: Build an app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL using Less.
 
 # User Story #1: My product landing page should have a header element with a corresponding id="header".
